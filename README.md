@@ -17,8 +17,13 @@ Tech Stack
 Usage Example
 
 Currency Converter (Offline Version) 
+
 Supported currencies: USD, INR, EUR, GBP, JPY
+
 Enter amount: 100
+
 From Currency (e.g. INR): INR
+
 To Currency (e.g. USD): USD
+
 100 INR = 1.2 USD
