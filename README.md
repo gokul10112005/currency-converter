@@ -15,6 +15,7 @@ Tech Stack
 - Tools: VS Code, GitHub
 
 Usage Example
+
 Currency Converter (Offline Version) 
 Supported currencies: USD, INR, EUR, GBP, JPY
 Enter amount: 100
